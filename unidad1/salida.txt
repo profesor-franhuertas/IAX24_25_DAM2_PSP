@@ -1,0 +1,4 @@
+Microsoft Windows [Versi¢n 10.0.19045.4894]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+J:\IES Alfonso X\EJEMPLOS\PSP\Ejemplos\Unidad1>¨M s? 
